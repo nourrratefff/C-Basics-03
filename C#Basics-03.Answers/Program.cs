@@ -52,11 +52,18 @@
             string yearText = "2023";
             int yearTextCinverted = int.Parse(yearText);
 
-           
 
+            //Question 6
 
-
-
+            string badText = "abc";
+            if (int.TryParse(badText, out int badTextConverted))
+            {
+                Console.WriteLine("Converted!");
+            }
+            else
+            {
+                Console.WriteLine("Invalid number");
+            }
 
 
 
