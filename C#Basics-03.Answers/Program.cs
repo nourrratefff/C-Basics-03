@@ -1,6 +1,6 @@
 ﻿namespace C_Basics_03.Answers
 {
-    internal class Program
+    internal class Book
     {
         static void Main(string[] args)
         {
@@ -24,9 +24,19 @@
             }
             finally
             {
-                Console.WriteLine("Successfully calculated."
+                Console.WriteLine("Successfully calculated.");
             }
+
+
+            //Question 2
+
+            int pages = 300;
+            double convertedValue = Convert.ToDouble(pages);
+
+
+
+
         }
-  
+
     }
 }
