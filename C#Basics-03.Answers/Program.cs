@@ -34,7 +34,10 @@
             double convertedValue = Convert.ToDouble(pages);
 
 
+            //Question 3
 
+            double price = 49.99;
+            int price = (int)price;
 
         }
 
