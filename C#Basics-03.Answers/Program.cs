@@ -87,8 +87,19 @@
             Console.WriteLine(newCopies);
 
 
+            //Question 9
 
+            int pages3 = 464;
 
+            if(pages3 > 300)
+            {
+                Console.WriteLine("Long Book");
+
+            }
+            else
+            {
+                Console.WriteLine("Short Book");
+            }
         }
 
     }
