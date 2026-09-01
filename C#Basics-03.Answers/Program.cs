@@ -39,6 +39,13 @@
             double price = 49.99;
             int priceConverted = (int)price;
 
+
+            //Question 4
+            
+            string pagesText = "464";
+            int pagesTextConverted = Convert.ToInt32(pagesText);
+        
+            
         }
 
     }
