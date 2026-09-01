@@ -100,6 +100,19 @@
             {
                 Console.WriteLine("Short Book");
             }
+
+            //Question 10
+
+
+            bool isAvailable = true;
+
+            if((pages3 > 300) && (isAvailable == true))
+            {
+                Console.WriteLine("You can borrow this book");
+            }
+
+
+
         }
 
     }
