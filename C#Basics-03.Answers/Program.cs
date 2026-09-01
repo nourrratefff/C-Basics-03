@@ -44,8 +44,22 @@
             
             string pagesText = "464";
             int pagesTextConverted = Convert.ToInt32(pagesText);
-        
+
+
+
+            //Question 5
             
+            string yearText = "2023";
+            int yearTextCinverted = int.Parse(yearText);
+
+           
+
+
+
+
+
+
+
         }
 
     }
