@@ -37,7 +37,7 @@
             //Question 3
 
             double price = 49.99;
-            int price = (int)price;
+            int priceConverted = (int)price;
 
         }
 
