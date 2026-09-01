@@ -73,6 +73,22 @@
             Console.WriteLine(pages2Converted.GetType());
 
 
+            //Question 8
+
+
+            int copies = 100;
+
+            object objectCopies = copies;
+
+
+            int newCopies = (int)objectCopies;
+
+            Console.WriteLine(objectCopies);
+            Console.WriteLine(newCopies);
+
+
+
+
         }
 
     }
