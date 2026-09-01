@@ -20,11 +20,11 @@
             }
             catch (DivideByZeroException ex)
             {
-                Console.WriteLine($"Error occured, Cannot proceed. {ex.Message}");
+                Console.WriteLine($"Cannot divide by zero {ex.Message}");
             }
             finally
             {
-                Console.WriteLine("Successfully calculated.");
+                Console.WriteLine("Done");
             }
 
 
