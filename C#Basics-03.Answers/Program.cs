@@ -26,20 +26,7 @@
             {
                 Console.WriteLine("Successfully calculated."
             }
-
-
-
-
-
-
-
-
-
         }
-
-
-
-
-       
+  
     }
 }
