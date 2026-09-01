@@ -65,6 +65,12 @@
                 Console.WriteLine("Invalid number");
             }
 
+            //Question 7
+
+            int pages2 = 464;
+
+            var pages2Converted = pages2.ToString("0.00");
+            Console.WriteLine(pages2Converted.GetType());
 
 
         }
